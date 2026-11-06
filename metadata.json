@@ -1,0 +1,6 @@
+{
+  "name": "Mi Tierra Radio 88.1 FM",
+  "description": "Emisora comunitaria y de interés público de Santa Rosa de Osos 88.1 FM en vivo con reproducción en segundo plano y controles multimedia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
